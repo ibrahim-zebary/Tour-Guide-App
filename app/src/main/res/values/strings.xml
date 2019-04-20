@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Kurdistan Tour Guide</string>
+
+    <!-- Mariana Hotel -->
+    <string name="mariana_name">Mariana</string>
+    <string name="mariana_address">Address: Gulan Street. Erbil, Kurdistan Region of Iraq, Behind Sami Abdul-Rahman Park، Gulan St, Erbil</string>
+    <string name="mariana_phone">Phone: 0750 392 2000</string>
+
+    <!-- Rixos Hotel -->
+    <string name="rixos_name">Rixos</string>
+    <string name="rixos_address">Address: Duhok</string>
+    <string name="rixos_phone">Phone: 062 710 0200</string>
+
+
+    <!-- Copthorne Hotel -->
+    <string name="copthorne_baranan_name">Copthorne Baranan</string>
+    <string name="copthorne_baranan_address">Address: Sarchinar Road، Sulaymaniyah 00964</string>
+    <string name="copthorne_baranan_phone">Phone: 0770 600 0000</string>
+
+
+    <string name="hotel_details">Hotel details:</string>
+    <string name="location">Location</string>
+
+
+    <!-- Erbil Citadel History -->
+    <string name="erbil_citadel_name">Qalat Erbil</string>
+    <string name="erbil_citadel_detail">The Erbil Citadel, locally called Qalat Erbil , and the historical city centre of Erbil in the Kurdistan Region of Iraq.\nThe citadel has been inscribed on the World Heritage List since 21 June 2014</string>
+
+    <!-- Amedi History -->
+    <string name="amedi_name">Amadiya</string>
+    <string name="amedi_detail">Amadiya is a Kurdish town and popular summer resort and Hill station along a tributary to the Great Zab in the Dahuk Governorate of Iraqi Kurdistan.\nThe city is situated 4,600 feet (1,400 m) above sea level.</string>
+
+    <!-- Sherwana Castle History -->
+    <string name="sherwana_castle_name">Sherwana Castle</string>
+    <string name="sherwana_castle_detail">Sherwana Castle, also known as Shirwanah Castle, is located in Kalar, Kurdistan, Iraq.</string>
+
+    <!-- Shanadar Park -->
+    <string name="shanadar_park_name">Shanadar</string>
+    <string name="shanadar_park_address">Address: Shanadar, Erbil</string>
+    <string name="shanadar_park_open_close_time">Hours: Open ⋅ Closes 12AM</string>
+    <string name="shanadar_park_detail">Overview: Community park with lawns and a large lake crossed by a cablecar offering views of the city.</string>
+
+    <!-- Panorama Azadi Park -->
+    <string name="panorama_azadi_name">Panorama Azadi</string>
+    <string name="panorama_azadi_address">Address: Duhok</string>
+    <string name="panorama_azadi_open_close_time">Hours: Closed ⋅ Opens 2PM</string>
+    <string name="panorama_azadi_detail">Overview: This is a medium park within the urban area, not so far from downtown and close to Duhok Staduim. It is a good place to take a rest there or to do some sport activities too.</string>
+
+    <!-- Azadi Park -->
+    <string name="azadi_name">Azadi</string>
+    <string name="azadi_address">Address: Sulaimaniya</string>
+    <string name="azadi_open_close_time">Hours: Open ⋅ Closes 12AM</string>
+    <string name="azadi_detail">Overview: The site of what is now the Azadi Park used to be a military base during the Ba’ath regime, but after the uprising in 1991, it was converted into a tourism attraction.\nThe park contains several beautiful gardens, a restaurant, a small lake as well as sports areas and playgrounds for children.\nIt is a popular spot for relaxation and enjoyment for local residents. </string>
+
+    <!-- Sammad Restaurant -->
+    <string name="sammad_name">Sammad Restaurant</string>
+    <string name="sammad_address">Address: Erbil</string>
+    <string name="sammad_open_close_time">Hours: Open ⋅ Closes 11:30PM</string>
+    <string name="sammad_phone">Phone: 066 264 1161</string>
+
+    <!-- Malta Restaurant -->
+    <string name="malta_name">Malta Restaurant</string>
+    <string name="malta_address">Address: Zakho Way, Duhok</string>
+    <string name="malta_open_close_time">Hours: Open ⋅ Closes 12AM</string>
+    <string name="malta_phone">Phone: 0750 450 7991</string>
+
+    <!-- Diwan Restaurant -->
+    <string name="diwan_name">Diwan Restaurant</string>
+    <string name="diwan_address">Address: Sulaymaniyah</string>
+    <string name="diwan_open_close_time">Hours: Open 24 hours</string>
+    <string name="diwan_phone">Phone: 0770 009 8800</string>
+
+    <!-- Geli Ali Beg Tourism -->
+    <string name="geli_ali_beg_name">Geli Ali Beg</string>
+    <string name="geli_ali_beg_address">Address: Erbil</string>
+    <string name="geli_ali_beg_detail">Overview: Geli Ali Beg Waterfall is located in Iraqi Kurdistan, which lies in the mountainous northern part of the country in the Kurdistan Region, some 130 km north of Arbil.</string>
+
+    <!-- Gali Sherana Tourism -->
+    <string name="gali_sherana_name">Gali Sherana</string>
+    <string name="gali_sherana_address">Address: Dohuk</string>
+    <string name="gali_sherana_detail">Overview: Gali Sherana in the province of Duhok has been one of the hottest tourist destination in the Kurdistan Region this summer thanks to its stunning landscape and nature.\nThe place remained untouched until recently.\nThe location resides in the mountains, meaning people have to hike at least for two hours before reaching the spot.</string>
+
+    <!-- Ahmad Awa Tourism -->
+    <string name="ahmad_awa_name">Ahmad Awa</string>
+    <string name="ahmad_awa_address">Address: Sulaimaniya</string>
+    <string name="ahmad_awa_detail">Overview: This beautiful resort is situated 84 kilometers east of Sulaimaniya, near the town of Khurmall.\nIt is in a richly green valley, crossed by the Zallim River which flows down the middle of the mountain.\nA waterfall adds extra beauty to the surroundings.\nA must-see for visitors to the area.</string>
+
+</resources>
